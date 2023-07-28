@@ -5,7 +5,8 @@ Este repositorio contiene un pequeño framework de automatización desarrollado 
 ## Requerimientos
 
 - Java JDK 8 o superior.
-- Maven (para la gestión de dependencias y la ejecución de pruebas).
+- Maven (para la gestión de dependencias y la ejecución de pruebas)
+- TestNG.
 
 ## Instalación y Ejecución
 
@@ -21,7 +22,7 @@ Este repositorio contiene un pequeño framework de automatización desarrollado 
 
 Para acceder al reporte de la ejecución, se tiene que abrir el archivo `index.html` ubicado en `Crowdar_Exercises/test-output`.
 
-Del mismo modo, una vez terminada la ejecución, presione clic derecho sobre el proyecto y refrescarlo. Una vez hecho eso, debería aparecer la carpeta "Screenshot" con la captura del test fallido.
+Del mismo modo, una vez terminada la ejecución, presione click derecho sobre el proyecto y refrescarlo. Una vez hecho eso, debería aparecer la carpeta "Screenshot" con la captura del test fallido.
 
 ## Casos de Prueba
 
