@@ -1,7 +1,7 @@
 # Challenge | Automation
 
-Este repositorio contiene un pequeño framework de automatización desarrollado en Java utilizando Selenium WebDriver y TestNG. El objetivo del framework es automatizar pruebas sobre las funcionalidades "Inicio de sesión" y "Agregado de productos al carrito de compras" de la web [Sauce Demo](https://www.saucedemo.com/). Además de un ejercicio para interactuar con un servicio de MercadoLibre
-Libre
+Este repositorio contiene un pequeño framework de automatización desarrollado en Java utilizando Selenium WebDriver y TestNG. El objetivo del framework es automatizar pruebas sobre las funcionalidades "Inicio de sesión" y "Agregado de productos al carrito de compras" de la web [Sauce Demo](https://www.saucedemo.com/). Además de un ejercicio para interactuar con un servicio de MercadoLibre.
+
 
 ## Requerimientos
 
